@@ -3,3 +3,5 @@ Git is free software.
 Git is a distributed version control system.
 Git is free software.
 Delete note.txt file.
+20171007
+add note
