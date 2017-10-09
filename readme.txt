@@ -5,3 +5,7 @@ Git is free software.
 Delete note.txt file.
 20171007
 add note
+
+
+
+Creating a new branch is quick.
